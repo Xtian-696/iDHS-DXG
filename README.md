@@ -1,1 +1,1 @@
-# iDHS-DXG
+Zhang, S., Xue, T. Use Chou’s 5-steps rule to identify DNase I hypersensitive sites via dinucleotide property matrix and extreme gradient boosting. Mol Genet Genomics (2020). doi:10.1007/s00438-020-01711-8
